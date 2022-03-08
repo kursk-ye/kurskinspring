@@ -9,8 +9,9 @@
     <packaging>pom</packaging>
     <version>1.0.0</version>
     <modules>
-        <module>taco-cloud-c1</module>
+        <module>taco-cloud-c2</module>
     </modules>
+
 
     <properties>
         <my.version>2.0.4.RELEASE</my.version>
